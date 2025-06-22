@@ -1,0 +1,5 @@
+streamlit==1.46.0
+tensorflow-cpu==2.19.0        #  o la versión que hayas fijado
+numpy==1.26.4
+Pillow==10.3.0
+...
